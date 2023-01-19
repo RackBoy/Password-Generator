@@ -4,8 +4,6 @@ import customtkinter as ctk
 import string 
 import random
 import pyperclip as pc
-#MAKE A NEW WIDGET TO SAVE PASSW
-#THIS ONLY 4 ME, MAKE A BUTTON TO SEND PASS TO MAIL
 
 ctk.set_appearance_mode("dark")  
 
